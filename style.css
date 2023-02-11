@@ -13,7 +13,7 @@
   }
   
   .header-img {
-    width: 60px;
+    width: 50px;
   }
   
   .header-login {
@@ -87,6 +87,7 @@
   #footer-img hr {
     width: 500px;
     margin: 10px;
+    background-color: rgb(223, 223, 223);
   }
   
   .social-github {
